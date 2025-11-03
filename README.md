@@ -1,4 +1,3 @@
-# Lee Clagett (vtnerd) Open Source Portfolio
 ## Creator 
 ### [monero-lws](https://code.leeclagett.com/monero-lws)
   * MyMonero compatible light-wallet server that uses LMDB and ZeroMQ.
