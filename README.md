@@ -18,7 +18,7 @@
   * Uses `lwsf` or standard Monero wallet backends (runtime-option)
   * Demonstrates that `lwsf` is viable.
 
-### [macer](https://code.leeclagett.com/macer)
+### [macer](https://github.com/cifro-codes/macer)
   * Generate secure 128-bit passphrases using Trezor
   * Can be statically built, such that it used in initrd (luks)
 
