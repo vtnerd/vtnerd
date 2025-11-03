@@ -18,7 +18,7 @@
 
 ### [Motrix](https://code.leeclagett.com/motrix) 
   * Real-time visualizer for Monero transactions
-  * Buit with ZeroMQ Pub/Sub, ncurses, and z85 encoding
+  * Built with ZeroMQ Pub/Sub, ncurses, and z85 encoding
 
 ## Contributor
 ### [Monero](https://github.com/monero-project/monero/pulls?q=is%3Apr+author%3Avtnerd+)
