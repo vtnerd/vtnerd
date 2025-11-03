@@ -8,7 +8,7 @@
 ### [lwsf](https://code.leeclagett.com/lwsf)
   * Client library for LWS protocol
   * [monero_c](https://code.leeclagett.com/monero_c/tree/lwsf) fork for lwsf provides C/Dart API.
-    * Only one additional function for C/Dart is needed for fork - everything else is maintained upstream
+    * Only one additional function for C/Dart is needed for fork - all other C/Dart functions are maintained upstream
   * Useful for (light) mobile-wallets, particularly ones based in Flutter
 
 ### [lwcli](https://github.com/cifro-codes/lwcli)
