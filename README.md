@@ -20,7 +20,7 @@
 
 ### [macer](https://github.com/cifro-codes/macer)
   * Generate secure 128-bit passphrases using Trezor
-  * Can be statically built, such that it used in initrd (luks)
+  * Can be statically built, such that it can be used in initrd (luks)
 
 ### [Motrix](https://code.leeclagett.com/motrix) 
   * Real-time visualizer for Monero transactions
