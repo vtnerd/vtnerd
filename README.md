@@ -1,4 +1,4 @@
-## [Resume](https://https://www.leeclagett.com/resume.html)
+## [Resume](https://www.leeclagett.com/resume.html)
 ## Creator (Open Source)
 ### [monero-lws](https://code.leeclagett.com/monero-lws)
   * MyMonero compatible light-wallet server that uses LMDB and ZeroMQ.
