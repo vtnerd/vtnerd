@@ -18,6 +18,10 @@
   * Uses `lwsf` or standard Monero wallet backends (runtime-option)
   * Demonstrates that `lwsf` is viable.
 
+### [macer](https://code.leeclagett.com/macer)
+  * Generate secure 128-bit passphrases using Trezor
+  * Can be statically built, such that it used in initrd (luks)
+
 ### [Motrix](https://code.leeclagett.com/motrix) 
   * Real-time visualizer for Monero transactions
   * Built with ZeroMQ Pub/Sub, ncurses, and z85 encoding
