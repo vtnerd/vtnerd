@@ -25,7 +25,7 @@
   * Highlights:
     * Modified Ed25519 library (x86-64 ASM) for direct ECDH needed for Monero wallets
     * Implemented Dandelion++ (p2p protocol) for transaction privacy
-    * Added SSL to p2p protocl (still in review)
+    * Added SSL to p2p protocol (still in review)
     * Updated internal serialization functions to remove intermediate DOM, providing better performance, less memory usage, and better constraints for unpacking (compressed binary protocol to C++).
 
 ### [boost::spirit](https://github.com/boostorg/spirit/pulls?q=is%3Apr+author%3Avtnerd+)
