@@ -12,6 +12,7 @@
   * [monero_c](https://code.leeclagett.com/monero_c/tree/lwsf) fork for lwsf provides C/Dart API.
     * Only one additional function for C/Dart is needed for fork - all other C/Dart functions are maintained upstream
   * Useful for (light) mobile-wallets, particularly ones based in Flutter
+  * Real-world usage: [Skylight Wallet](https://skylight.magicgrants.org)
 
 ### [lwcli](https://github.com/cifro-codes/lwcli)
   * An experimental TUI (ftxui) Monero wallet with mouse+keyboard support
