@@ -3,8 +3,8 @@
 ## Creator (Open Source)
 ### [monero-lws](https://code.leeclagett.com/monero-lws)
   * MyMonero compatible light-wallet server that uses LMDB and ZeroMQ.
-  * Useful for non-custodial payment processors (BTCPayserver, etc)
-    * webhook/zeromq real-time reporting of incoming funds.
+  * Powers XMRChat and Edge Wallet (Fast sync mode)
+  * webhook/zeromq real-time reporting of incoming funds.
   * Fully non-blocking REST API (`boost::beast`), except for LMDB calls (filesystem based, cannot async).
 
 ### [lwsf](https://code.leeclagett.com/lwsf)
